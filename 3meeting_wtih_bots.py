@@ -3,7 +3,7 @@ import os
 import random
 
 name_tg = '@my_new_test_robo_bot'
-API_TOKEN = '6656798397:AAH5mluzrSlL2FjT80nlDK9znAg0Rz7xenk'
+API_TOKEN = 'YOUR API CODE HERE'
 bot = telebot.TeleBot(API_TOKEN)
 FOLDER = 'memes'
 
